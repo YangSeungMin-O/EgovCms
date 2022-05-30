@@ -6,6 +6,6 @@
 <title>Cms MainPage</title>
 </head>
 <body>
-	<h1>Cms MainPage</h1>
+<%@ include file="/WEB-INF/jsp/cms/common/header.jsp" %>
 </body>
 </html>
