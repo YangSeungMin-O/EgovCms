@@ -7,5 +7,6 @@
 </head>
 <body>
 <%@ include file="/WEB-INF/jsp/cms/common/header.jsp" %>
+<table></table>
 </body>
 </html>
